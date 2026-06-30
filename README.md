@@ -1,4 +1,4 @@
-### Olá! Eu sou Luan Riechi, atualmente sou estudande de Engenharia de Software na UTFPR-CP, em busca do meu primeiro estágio na área. 👋
+### Olá! Eu sou Luan Riechi, atualmente sou formado em Engenharia de Software na UTFPR-CP. Aqui compartilho meus projetos autônomos na área de software. 👋
 
 - :books: Conhecimentos na parte de desenvolvimento web, desktop, mobile e de jogos.
 - :computer: TECNOLOGIAS: JavaScript, Java, C#, Node.js, SQL, NoSQL, Docker, Git, CSS, HTML, Unity
