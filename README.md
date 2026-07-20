@@ -1,7 +1,7 @@
-### Olá! Eu sou Luan Riechi, atualmente sou formado em Engenharia de Software na UTFPR-CP. Aqui compartilho meus projetos autônomos na área de software. 👋
+### Olá! Eu sou Luan Riechi, sou formado em Engenharia de Software na UTFPR-CP e atualmente trabalho como QA. Aqui compartilho meus projetos autônomos na área de software. 👋
 
-- :books: Conhecimentos na parte de desenvolvimento web, desktop, mobile e de jogos.
-- :computer: TECNOLOGIAS: JavaScript, Java, C#, Node.js, SQL, NoSQL, Docker, Git, CSS, HTML, Unity
+- :books: Conhecimentos e experiência na garantia de qualidade de software na parte de desenvolvimento web, desktop, mobile e de jogos.
+- :computer: TECNOLOGIAS: Cypress, Selenium, Playwright, Postman, JavaScript, Java, C#, Node.js, SQL, Docker, Git, CSS, HTML, Unity.
   
 <div align="center">
   <a href="https://github.com/luanriechi">
