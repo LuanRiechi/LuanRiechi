@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/luanriechi">
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanriechi&show_icons=true&theme=merko&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanriechi&langs_count=5&hide=shaderLab,HLSL&hide_progress=true&theme=merko"/>
+  <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs?username=LuanRiechi&layout=compact&hide_progress=true&langs_count=13&theme=chartreuse-dark"/>
 </div>
 
 ##
